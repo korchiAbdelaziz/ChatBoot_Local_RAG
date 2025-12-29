@@ -12,7 +12,7 @@ RAG Neural Chat est une application **Retrieval-Augmented Generation (RAG)** qui
 
 ## 🖼️ Aperçu de l’application
 
-![RAG Neural Chat UI](assets/Capture_Ecrant_Rag.png)
+![Aperçu de l'application](./assets/Capture_Ecrant_Rag.png)
 
 
 ---
