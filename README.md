@@ -1,8 +1,3 @@
-Parfait 👍
-Voici **le fichier README.md COMPLET, propre et bien formaté**, corrigé (titres, blocs `bash`, sections manquantes).
-👉 **Copie-colle exactement ce fichier** dans `README.md`.
-
----
 
 ````md
 # 🤖 RAG Neural Chat — Streamlit + Ollama
@@ -17,7 +12,7 @@ RAG Neural Chat est une application **Retrieval-Augmented Generation (RAG)** qui
 
 ## 🖼️ Aperçu de l’application
 
-![RAG Neural Chat UI](Capture_Ecrant_Rag.png)
+![RAG Neural Chat UI](/Capture_Ecrant_Rag.png)
 
 ---
 
@@ -34,18 +29,6 @@ RAG Neural Chat est une application **Retrieval-Augmented Generation (RAG)** qui
 
 ## 🗂️ Structure du projet
 
-```text
-Rag/
-│── Rag_app.py
-│── rag_engine.py
-│── requirements.txt
-│── docs/               # documents uploadés
-│── assets/
-│   └── Capture_Ecrant_Rag.png
-│── embeddings.pkl      # index vectoriel (généré)
-````
-
----
 
 ## ⚙️ Installation
 
